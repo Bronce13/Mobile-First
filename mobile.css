@@ -1,0 +1,74 @@
+
+body{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: white;
+	color: black;
+}
+
+h1{
+	margin-left: 40px;
+	margin-top: 50px;
+	font-size: 40px;
+
+}
+
+p{
+	margin-left: 50px !important;
+	margin: 20px 30px 20px 30px;
+	line-height: 25px;
+
+
+}
+
+form{
+margin: 20px 30px 20px 30px;
+margin-left: 50px;
+margin-top: 60px !important;
+width: 70%;
+height: 30%;
+background-color: #dfe4ea;
+padding: 20px;
+
+}
+
+.message{
+	margin-top: 20px;
+	display: inline-block;
+	height: 250px;
+
+}
+
+button{
+	background-color: blue;
+	width: 100px;
+	padding:10px 20px 10px 20px;
+	margin: 20px 10px;
+	text-align:center;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 160px !important;
+}
+
+label{
+	line-height: 25px;
+}
+ 
+input{
+	margin-top: 10px;
+	height: 30px;
+	width: 240px;
+	text-align: left;
+}
+.awa{
+	margin-top: 10px;
+	resize: none;
+}
+
+footer{
+	text-align: center;
+}
+
+@media screen and (min-width: 425px)
